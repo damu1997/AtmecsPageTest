@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AtmecsMedia]">
+  <test thread-count="5" name="CsrPage(failed)">
+    <classes>
+      <class name="com.atmecs.qa.testscript.CsrPageTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="assertingAllTheLink"/>
+          <include name="quitBrowser"/>
+          <include name="validateAllHyperLinkCount"/>
+        </methods>
+      </class> <!-- com.atmecs.qa.testscript.CsrPageTest -->
+    </classes>
+  </test> <!-- CsrPage(failed) -->
+</suite> <!-- Failed suite [AtmecsMedia] -->

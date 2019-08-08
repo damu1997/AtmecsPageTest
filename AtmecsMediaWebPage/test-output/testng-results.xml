@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14421" started-at="2019-08-08T14:10:25Z" finished-at="2019-08-08T14:10:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14421" started-at="2019-08-08T14:10:25Z" finished-at="2019-08-08T14:10:39Z">
+      <class name="com.atmecs.qa.testscript.NewsPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.atmecs.qa.testscript.NewsPageTest@71423665]" name="openBrowser" is-config="true" duration-ms="9447" started-at="2019-08-08T14:10:25Z" finished-at="2019-08-08T14:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validatingWatchMoreBtn()[pri:0, instance:com.atmecs.qa.testscript.NewsPageTest@71423665]" name="validatingWatchMoreBtn" duration-ms="3177" started-at="2019-08-08T14:10:35Z" finished-at="2019-08-08T14:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingWatchMoreBtn -->
+        <test-method status="PASS" signature="validatingAllReadMore()[pri:1, instance:com.atmecs.qa.testscript.NewsPageTest@71423665]" name="validatingAllReadMore" duration-ms="1752" started-at="2019-08-08T14:10:38Z" finished-at="2019-08-08T14:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAllReadMore -->
+      </class> <!-- com.atmecs.qa.testscript.NewsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

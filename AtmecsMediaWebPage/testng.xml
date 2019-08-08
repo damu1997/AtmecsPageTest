@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AtmecsMedia">
+
+<test name="AllNavigationUnderMedia">
+<classes>
+<class name="com.atmecs.qa.testscript.MediaPageTest"></class>
+</classes>
+</test>
+<test name="NewsPage">
+<classes>
+<class name="com.atmecs.qa.testscript.NewsPageTest"></class>
+</classes>
+</test>
+<test name="EventsPage">
+<classes>
+<class name="com.atmecs.qa.testscript.EventsPageTest"></class>
+</classes>
+</test>
+<test name="CsrPage">
+<classes>
+<class name="com.atmecs.qa.testscript.CsrPageTest"></class>
+</classes>
+</test>
+<test name="ClientAchievementPageTest">
+<classes>
+<class name="com.atmecs.qa.testscript.ClientAchievementPageTest"></class>
+</classes>
+</test>
+</suite>
